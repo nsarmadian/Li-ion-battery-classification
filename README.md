@@ -1,4 +1,4 @@
-This repository contain the python code for machine learning of Li-ion battery classification.
+This repository contain the python code for machine learning of Li-ion battery classification using support vector machine (SVM) method.
 The dataset contains data about the physical and chemical properties of the 
 Li-ion silicate cathodes which can be found here:
 https://www.kaggle.com/divyansh22/crystal-system-properties-for-liion-batteries/code
